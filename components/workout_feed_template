@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+    <div class="rounded-lg shadow-md p-5 w-full max-w-md mx-auto gap-4">
+        <div class="flex flex-row">
+            <div  class="flex-initial">
+                <p class="font-bold text-lg">Exercise 01</p>
+            </div>
+            <div  class="flex-initial ml-auto">
+                <p class="font-medium text-lg text-cyan-500">Focus:</p>
+            </div>
+            <div  class="flex-initial ml-2">
+                <p class="font-medium text-lg text-cyan-500">___</p>
+            </div>        
+        </div>       
+        <div id="exercise_containers" class="ml-5">
+            <!-- Use this to add list elements from workout_feed_template_indi_elements  -->
+             <!-- Implement using something like:
+             <script>
+                document.addEventListener("DOMContentLoaded", function () {
+                    function addWorkout(name, reps) {
+                        let container = document.getElementById("exercise_containers");
+                
+                        let newElement = document.createElement("div");
+                        newElement.className = "flex flex-row items-center my-2";
+                        newElement.innerHTML = `
+                            <p class="font-medium text-base">${name}</p>
+                            <p class="ml-auto text-gray-600">${reps} reps</p>
+                        `;
+                
+                        container.appendChild(newElement);
+                    }
+                
+                    // Example: Adding a workout dynamically
+                    addWorkout("Push-ups", "10");
+                    addWorkout("Squats", "15");
+                });
+                </script> -->
+        </div>
+    </div>
+</body>
+</html>
