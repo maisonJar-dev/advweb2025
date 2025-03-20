@@ -11,9 +11,11 @@
             <p class="font-bold text-lg">Exercise 01</p>
         </div>
         <div  class="flex-initial ml-auto">
-            <p class="font-medium text-lg text-gray-500">Focus: ____</p>
+            <p class="font-medium text-lg text-gray-500">Focus:</p>
         </div>
-        
+        <div  class="flex-initial ml-2">
+            <p class="font-medium text-lg text-gray-500">___</p>
+        </div>
     </div>
         
 </body>
