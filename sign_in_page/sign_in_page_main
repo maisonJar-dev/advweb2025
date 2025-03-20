@@ -22,7 +22,7 @@
                         <br>
                         <label class="block mt-2 text-xs font-medium text-gray-700">Not A User?... 
                             <a href="#signup" id="signup_link" class="underline text-orange-500 hover:text-orange-700">
-                                Click Here
+                                Sign-Up
                             </a>
                         </label>
                     </form>
