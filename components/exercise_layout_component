@@ -17,11 +17,11 @@
         </div>
         <div class="flex-none ml-5 w-0.5 mt-5 rounded-md bg-blue-500 h-100%"></div>
         <div class="flex-initial ml-5">
-            <p class="font-bold text-gray-500 pb-2">Weight</p>
+            <p class="font-bold text-gray-500 pb-2">Sets</p>
             <input type="number" class="w-14 h-10 bg-gray-200 rounded-md text-center outline-none focus:ring-2 focus:ring-blue-500">
         </div>
         <div class="flex-initial ml-5">
-            <p class="font-bold text-gray-500 pb-2">Weight</p>
+            <p class="font-bold text-gray-500 pb-2">Reps</p>
             <input type="number" class="w-14 h-10 bg-gray-200 rounded-md text-center outline-none focus:ring-2 focus:ring-blue-500">
         </div>
     </div>
