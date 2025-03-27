@@ -29,7 +29,7 @@
                         <button type="submit" class="mt-4 w-64 bg-orange-500 hover:bg-orange-700 text-white font-bold py-2 px-4 rounded">Sign In</button>
                         <br>
                         <label class="block mt-2 text-xs font-medium text-gray-700">Already A User?... 
-                            <a href="https://cs.tru.ca/~w3mgulyas/TP_MG/Landing_Area/sign_in_page_view.html" id="signup_link" class="underline text-orange-500 hover:text-orange-700">
+                            <a href="https://cs.tru.ca/~w3mgulyas/TP_MG/Landing_Area/sign_in_page_view.php" id="signup_link" class="underline text-orange-500 hover:text-orange-700">
                                 Sign In
                             </a>
                         </label>
