@@ -1,7 +1,7 @@
 <?php
     error_reporting(0); //https://support.hostinger.com/en/articles/1583189-how-to-hide-errors-and-warnings-on-your-website
     session_start();
-    require "model.php";
+    require "landing_area_model.php";
 // Case 1:
     if (empty($_POST['page'])) {
         include("sign_in_page_view.php");
